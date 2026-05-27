@@ -1,0 +1,124 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "author": "John Doe",
+  "likes": 23
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Understanding Async/Await in JavaScript",
+  "author": "Alice Johnson",
+  "url": "https://devtips.com/async-await-guide",
+  "likes": 45
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Node.js Streams Simplified",
+  "author": "Bob Martin",
+  "url": "https://codeflow.io/node-streams",
+  "likes": 32
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Mastering React Hooks",
+  "author": "Carol Lee",
+  "url": "https://frontendbytes.dev/react-hooks",
+  "likes": 78
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Demystifying JavaScript Closures",
+  "author": "David Kim",
+  "url": "https://jsinsight.org/closures",
+  "likes": 60
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "An Introduction to REST APIs",
+  "author": "Ella Fitzgerald",
+  "url": "https://apiacademy.net/rest-basics",
+  "likes": 25
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Building Scalable Backends with Express",
+  "author": "Frank Lin",
+  "likes": 90
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "A Deep Dive into MongoDB Aggregations",
+  "author": "Grace Hopper",
+  "url": "https://datamastery.io/mongodb-aggregations",
+  "likes": 53
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "State Management in React Without Redux",
+  "author": "Henry Ford",
+  "url": "https://modernreact.dev/state-without-redux",
+  "likes": 71
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Testing Node.js APIs with Supertest",
+  "author": "Isabella Cruz",
+  "url": "https://qaengineer.io/supertest-guide"
+}
+
+###
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "author": "Jack Sparrow",
+  "url": "https://javascriptsea.io/event-loop",
+  "likes": 84
+}

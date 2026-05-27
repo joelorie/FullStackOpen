@@ -7,4 +7,6 @@
 /Part2/part2-notes-frontend
 /Part3/helloWorld
 /Part2/phonebook/dist
-.**/.env
+/Part4/example
+**/.env
+.vscode

@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/69f0df5152fca1a273a0a39c
+Content-Type: application/json
+
+{
+  "likes" : "21",
+  "author": "Jace Jason",
+  "url": "www.areallycoolwebsite.com",
+  "title": "NodeJS Masterclass"
+}
